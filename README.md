@@ -85,13 +85,3 @@ ERROR: Error during scan.
 
 Important Note on "Vulnerable": The 'POTENTIALLY VULNERABLE' tag indicates a common service, not a confirmed flaw. True vulnerability depends on the software version and configuration. Always conduct deeper security assessments.
 
-Contributing
-Contributions are welcome! Fork, branch, commit, push, and open a Pull Request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-tqdm library
-
-Python's socket module
