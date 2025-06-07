@@ -85,3 +85,4 @@ ERROR: Error during scan.
 
 Important Note on "Vulnerable": The 'POTENTIALLY VULNERABLE' tag indicates a common service, not a confirmed flaw. True vulnerability depends on the software version and configuration. Always conduct deeper security assessments.
 
+.
