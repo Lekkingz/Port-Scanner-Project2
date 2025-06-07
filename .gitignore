@@ -1,0 +1,39 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / build files
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.localized
+
+# Editor files (add your editor's temp files if applicable)
+.idea/             # IntelliJ IDEA / PyCharm
+.vscode/           # VS Code
+*.sublime-project
+*.sublime-workspace
+
+# MyPy cache files
+.mypy_cache/
+
+# Coverage reports
+.coverage
+
+# Any other specific temporary files or directories you might generate during development
